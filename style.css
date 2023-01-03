@@ -1,0 +1,863 @@
+ 
+ body {
+    font-family:'Open Sans', Arial, sans-serif;
+    margin: 0;
+    background-color:white;
+    padding: 0px;
+    border: 0;
+    
+  } 
+
+.spices {
+    width: 400;
+    height:5px;
+    position: relative;
+    bottom:500px;
+    top:5px; 
+   left:55px;
+   font-family:sans-serif;
+   text-align:justify;
+   font-size:large;
+   font-weight: 1px;
+}
+  .step {
+    width: 500px;
+    height:-50px;;
+    position: relative;
+    bottom:10px;
+    top:2px; 
+    right:-600px;
+    font-size:large;
+    font-family:sans-serif;
+   text-align:justify;
+   font-weight: 1px;
+   padding-bottom: 25%;
+  } 
+  .intro_dish{
+    width: 500px;
+    height:5px;
+    position: relative;
+    bottom:100px;
+    top:-470px; 
+   left:595px;
+   font-family:sans-serif;
+   text-align:justify;
+   font-size:large;  
+  }
+  .foody{
+    background-color:white;
+    background-size: cover;
+  }
+  .foody1{
+    background-color:white;
+    background-size:cover;
+  }
+  .spices1 {
+    width: 400;
+    height:10px;
+    position: relative;
+    bottom:-5px;
+    top:30px;; 
+   left:50px;
+   font-family:sans-serif;
+   text-align:justify;
+   font-size:large;
+   font-weight: 1px;
+}
+
+  .step1{
+    width: 500px;
+    height:-50px;;
+    position: relative;
+    bottom:10px;
+    top:15px; 
+    right:-600px;
+    font-size:large;
+    font-family:sans-serif;
+   text-align:justify;
+   font-weight: 1px;
+   padding-bottom: 30%;
+  } 
+  .intro_dish1{
+    width: 500px;
+    height:5px;
+    position: relative;
+    bottom:50px;
+    top:-300px; 
+   left:585px;
+   font-family:sans-serif;
+   text-align:justify;
+   font-size:large;
+   font-weight: 1px;
+     
+  }
+  .spices2 {
+    width:400px;
+    height:15px;
+    position: relative;
+    bottom:-5px;
+    top:32px;; 
+   left:45px;
+   font-family: sans-serif;
+   text-align:justify;
+   font-size:large;
+   font-weight: 1px;
+}
+
+  .step2{
+    width: 500px;
+    height:-50px;
+    position: relative;
+    bottom:10px;
+    top:-10px; 
+    right:-600px;
+    font-size:large;
+    font-family:sans-serif;
+   text-align:justify;
+   font-weight: 1px;
+   padding-bottom: 25%;
+  } 
+  .intro_dish2{
+    width: 500px;
+    height:10px;
+    position: relative;
+    bottom:50px;
+    top:-300px; 
+   right: -600px;
+   font-family:sans-serif;
+   text-align:justify;
+   font-size:large;
+   font-weight: 1px;   
+  }
+h3{
+  text-decoration: underline;
+}
+
+.intro_curddish{
+  width: 500px;
+    height:10px;
+    position: relative;
+    bottom:50px;
+    top:-300px; 
+   right:-600px;
+   font-family:sans-serif;
+   text-align:justify;
+   font-size:large;
+   font-weight: 1px;
+}
+.curd_spices{
+  width: 400px;
+  height:10px;
+  position: relative;
+  top:1px;; 
+ left:45px;
+ font-family: sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+ padding-top: 20px;
+}
+
+.curd_step{
+  width: 500px;
+    height:-50px;;
+    position: relative;
+    bottom:10px;
+    top:-10px; 
+    right:-600px;
+    font-size:large;
+    font-family:sans-serif;
+   text-align:justify;
+   font-weight: 1px;
+   padding-bottom: 25%;
+
+}
+.intro_payaddish{
+  width: 500px;
+  height:5px;
+  position: relative;
+  bottom:50px;
+  top:-330px; 
+  right:-600px;
+  font-family:sans-serif;
+  text-align:justify;
+  font-size:large;
+  font-weight: 1px;
+}
+.paya_spices
+{
+  width: 400px;
+  height:10px;
+  position: relative;
+  bottom:-5px;
+  top:8px;
+ left:45px;
+ font-family: sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+}
+.paya_step{
+  width: 500px;
+  height:-50px;;
+  position: relative;
+  bottom:10px;
+  top:2px; 
+  right:-600px;
+  font-size:large;
+  font-family:sans-serif;
+  text-align:justify;
+  font-weight: 1px;
+  padding-bottom: 25%;
+}
+.intromuttonkurma_dish{
+  width: 500px;
+  height:5px;
+  position: relative;
+  bottom:50px;
+  top:-330px; 
+ right:-585px;
+ font-family:sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+}
+.muttonkurma_spices{
+  width: 400px;
+  height:10px;
+  position: relative;
+  bottom:-5px;
+  top:10px;; 
+ left:45px;
+ font-family: sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+}
+.muttonkurma_step{
+  width: 500px;
+    height:10px;;
+    position: relative;
+    bottom:10px;
+    top:-5px; 
+    right:-590px;
+    font-size:large;
+    font-family:sans-serif;
+   text-align:justify;
+   font-weight: 1px;
+   padding-bottom:70%;
+
+}
+.introchickcurry_dish{
+  width: 500px;
+  height:10px;
+  position: relative;
+  bottom:50px;
+  top:-455px; 
+ right:-600px;
+ font-family:sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+ padding-top: 10px;
+}
+.chickcurry_spices{
+  width: 400px;
+  height:10px;
+  position: relative;
+  bottom:-5px;
+  top:10px;; 
+ left:45px;
+ font-family: sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+}
+.chickcurry_step{
+  width:500px;
+    height:20px;
+    position: relative;
+    bottom:10px;
+    top:-20px; 
+    right:-600px;
+    font-size:large;
+    font-family:sans-serif;
+   text-align:justify;
+   font-weight:1px;
+   padding-bottom:50%;
+}
+.intro_fishcurrydish{
+  width: 500px;
+  height:5px;
+  position: relative;
+  bottom:50px;
+  top:-330px; 
+ right:-585px;
+ font-family:sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+}
+.fishcurry_spices{
+  width: 400px;
+  height:10px;
+  position: relative;
+  top:9px;
+ left:45px;
+ bottom: 70px;
+ font-family: sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+}
+.fishcurry_step{
+  width:500px;
+    height:10px;;
+    position: relative;
+    top:1px; 
+    right:-590px;
+    font-size:large;
+    font-family:sans-serif;
+   text-align:justify;
+   font-weight:1px;
+   padding-bottom: 150%;
+}
+.intro_soupdish{
+  width: 500px;
+  height:5px;
+  position: relative;
+  bottom:50px;
+  top:-370px; 
+ right:-585px;
+ font-family:sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+}
+.soup_spices{
+  width: 400px;
+  height:50px;
+  position: relative;
+  bottom:-5px;
+  top:25px;
+ left:45px;
+ font-family: sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+}
+.soup_step{
+  width:500px;
+  height:-50px;
+  position: relative;
+  bottom:10px;
+  top:-70px; 
+  right:-590px;
+  font-size:large;
+  font-family:sans-serif;
+ text-align:justify;
+ font-weight:1px;
+ padding-bottom: 25%;
+}
+.intro_65dish{
+  width: 500px;
+  height:10px;
+  position: relative;
+  top:-340px; 
+ right:-600px;
+ font-family:sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+ padding: 20px;
+}
+.chick65_spices{
+width: 400px;
+height:10px;
+  position: relative;
+  top:-5px;; 
+ left:45px;
+ font-family: sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+}
+.chick65_step{
+  width: 500px;
+  height:auto;
+  position: relative;
+  bottom:10px;
+  top:-50px; 
+  right:-600px;
+  font-size:large;
+  font-family:sans-serif;
+ text-align:justify;
+ font-weight: 1px;
+ padding-bottom: 15%;
+}
+h1{
+  text-align: center;
+}
+.intro_paneerdish{
+  width: 500px;
+  height:10px;
+  position: relative;
+  bottom:auto;
+  top:-350px; 
+ right:-600px;
+ font-family:sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+
+}
+.paneer_spices{
+  width: 400px;
+  height:10px;
+  position: relative;
+  bottom:1px;
+  top:21px;
+  left:45px;
+  font-family: sans-serif;
+  text-align:justify;
+  font-size:large;
+  font-weight: 1px;
+}
+.paneer_step{
+  width: 500px;
+  height:auto;
+  position: relative;
+  bottom:10px;
+  top:5px; 
+  right:-600px;
+  font-size:large;
+  font-family:sans-serif;
+ text-align:justify;
+ font-weight: 1px;
+ padding-bottom: 25%;
+}
+.fishfry_step{
+  width: 500px;
+  height: 10px;;
+  position: relative;
+  bottom:10px;
+  top:-10px; 
+  right:-600px;
+  font-size:large;
+  font-family:sans-serif;
+ text-align:justify;
+ font-weight: 1px;
+ padding-bottom: 50%;
+
+}
+.introprawn_dish{
+  width: 500px;
+  height:10px;
+  position: relative;
+  bottom:50px;
+  top:-330px; 
+  right:-600px;
+  font-family:sans-serif;
+  text-align:justify;
+  font-size:large;
+  font-weight: 1px;
+}
+.prawn_spices{
+  width: 400px;
+  height:20px;
+  position: relative;
+  top:30px;
+ left:45px;
+ font-family: sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+}
+.prawn_step{
+  width: 500px;
+  height:10px;;
+  position: relative;
+  top:-5px; 
+  right:-600px;
+  font-size:large;
+  font-family:sans-serif;
+  text-align:justify;
+  font-weight: 1px;
+  padding-bottom: 100%;
+}
+.introveg_dish{
+  width: 500px;
+  height:10px;
+  position: relative;
+  top:-320px; 
+  right:-600px;
+  font-family:sans-serif;
+  text-align:justify;
+  font-size:large;
+  font-weight: 1px;
+}
+.veg_spices{
+  width: 400px;
+  height:10px;
+  position: relative;
+  top: 40px;
+  bottom:-5px;
+ left:45px;
+ font-family: sans-serif;
+ text-align:justify;
+ font-size:large;
+ font-weight: 1px;
+
+}
+.veg_step{
+  width: 500px;
+  height:-10px;;
+  position: relative;
+  bottom:10px;
+  top:-5px; 
+  right:-600px;
+  font-size:large;
+  font-family:sans-serif;
+  text-align:justify;
+  font-weight: 1px;
+  padding-bottom: 40%;
+}
+.introvegpora_dish{
+  width: 500px;
+  height:10px;
+  position: relative;
+  bottom:10px;
+  top:-420px; 
+  right:-600px;
+  font-family:sans-serif;
+  text-align:justify;
+  font-size:large;
+  font-weight: 1px;
+}
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style:none;
+  box-sizing: border-box;
+}
+body{
+  font-family:"montserrat";
+}
+nav{
+  background-color: orange;
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  z-index: 2;
+}
+label.logo{
+  color: white;
+  font-size:80px;
+  line-height: 80px;
+  padding:5px;
+  font-weight: bold;
+  left: -10px;
+}
+nav ul{
+  float: right;
+  display: inline-block;
+  font-weight: bold;
+  font-size:  35px; 
+  position: relative;
+}
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0px;
+  width: auto;
+  
+}
+nav ul li a{
+  color:white;
+  font-size: 26px;
+  text-transform: uppercase;
+  display:flex;
+  padding: 10px;
+}
+a.active, a:hover{
+  background:coral;
+  transition:.5s;
+}
+
+#home{
+  font-family: 'Merienda One', 'Brush Script MT', cursive;
+  text-align: center;
+  font-size:20px;
+  color: rgb(26, 25, 24);
+  font-style: italic;
+  z-index: 1;
+  position:relative;
+  padding-top: 100px; 
+}
+header{
+background-color:black;
+background-size: cover;
+width:100%;
+}
+.page-header {
+  height: 40vh;	
+}
+.topic{
+  color:rgb(246, 139, 9);
+  font-size:2.5rem;
+  text-align: center;
+}
+h1 {
+  color:bisque;
+	font-size: 3rem;
+  text-align: right;
+  padding-top: 5px;
+}
+h2 span{
+  color:bisque;
+	font-size: 2rem;
+  text-align:end;
+}
+
+#food1{
+  font-family:"MemphisRiver", sans-serif, cursive;
+  font-style:normal;
+  background-color: black;
+  width: 100%;
+}
+.india{
+  color:bisque;
+  height:60vh;
+  text-align:justify;
+  position:sticky;
+  top:-20px;
+  bottom: -10px;
+  right: -230px;
+  font-size:1.5em;
+  padding-left: 200px;
+  padding-top: -10px;
+  width:90%;
+  height:auto;
+  font-size: 17px;
+  
+}
+#non-vegMenu {
+  background-image: url(https://images.unsplash.com/photo-1509358271058-acd22cc93898?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  background-repeat:no-repeat;
+  z-index: 1;
+  height: 400px;
+  background-size:100%;
+  text-align: justify;
+  text-decoration: none;
+  position: sticky;
+}
+.spices ul li{
+  list-style-type:disc;
+}
+.step ol li{
+  list-style-type: number;
+}
+.spices1 ul li{
+  list-style-type: disc;
+}
+.curd_spices ul li{
+  list-style-type: disc;
+}
+.curd_step ol li{
+  list-style-type: number;
+}
+.paneer_spices ul li{
+  list-style-type: disc;
+}
+.paneer_step ol li{
+  list-style-type: number;
+}
+.fishfry_step ol li{
+  list-style-type: number;
+}
+.spices2 ul li{
+  list-style-type: disc;
+}
+.step2 ol li{
+  list-style-type: number;
+}
+.muttonkurma_spices ul li{
+list-style-type: disc;
+}
+.muttonkurma_step ol li{
+  list-style-type: number;
+}
+.chickcurry_spices ul li{
+  list-style-type: disc;
+}
+.chickcurry_step ol li
+{
+  list-style-type: number;
+}
+.fishcurry_spices ul li{
+  list-style-type: disc;
+}
+.fishcurry_step ol li{
+  list-style-type: number;
+}
+.paya_spices ul li{
+  list-style-type: disc;
+}
+.paya_step ol li{
+  list-style-type: number;
+}
+.soup_spices ul li{
+  list-style-type: disc;
+}
+.soup_step ol li{
+  list-style-type: number;
+}
+.prawn_spices ul li{
+  list-style-type: disc;
+}
+.prawn_step ol li{
+  list-style-type: number;
+}
+.chick65_spices ul li{
+  list-style-type: disc;
+}
+.chick65_step ol li{
+  list-style-type: number;
+}
+.veg_spices ul li{
+  list-style-type: disc;
+}
+.veg_step ol li{
+  list-style-type: number;
+}
+
+.time li{
+  list-style-type: disc;
+}
+.list li{
+  height:20px;
+  width: 400px;
+}
+.list li a{
+  color:white;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: 1px;
+}
+.list1 li{
+  height:20px;
+  width: 400px;
+  padding-left: -55px;
+} 
+.list1 li a{
+  color:white;
+  font-size:  20px;
+  text-decoration: none;
+  font-weight: 1px;
+  
+}
+.foodcolor{
+color:whitesmoke;
+text-align: center;
+font-size: 2.5rem;
+}
+.leftside{
+  float:left;
+  padding-left: 20px;
+  font-size:30px;
+  color:coral;
+  width: 400px;
+  height:fit-content;
+  position: sticky;
+}
+.rightside-h{
+  float:right;
+  font-size:30px ;
+ width: 400px;
+ padding-right:50px ;
+}
+.veg-box{
+color:coral;
+  font-size: 30px;
+  width: 200px;
+  float:right;
+  position:sticky;
+}
+
+#contact{
+  font-family:"MemphisRiver", sans-serif, cursive;
+  font-style:normal;
+  height: 300px;
+  background-color: black;
+}
+.contact{
+  color:coral;
+  text-align: bold;
+  font-size: 20px;
+  padding-left: 40px;
+  text-align:justify;
+  width: 400px;
+}
+.contact1{
+  float:center;
+  color: coral;
+  font-size: 30px;
+  text-align:center;
+  padding-top: 20px;
+}
+.add{
+  text-align:center;
+  text-decoration:underline;
+  color: whitesmoke;
+
+}
+.add1{
+text-decoration: underline;
+color: whitesmoke;
+}
+.text-center{
+  color: whitesmoke;
+  text-align: center;
+  text-decoration:none;
+  font-size: 38px;
+}
+#map-wrapper {
+
+  height: 300px;
+  margin-bottom: 107px;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+  border: none;
+}
+
+footer {
+	background-color:rgb(65, 64, 64);
+	padding: 1em;
+	text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+	z-index: 3;
+}
+
+footer > span {
+	color: silver;
+}
+
+footer > a {
+	color: beige;
+	text-decoration: none;
+	padding: 0 15px;
+	font-size: 0.8rem;
+}
+
+footer > p {
+	color: silver;
+}
+  
+
